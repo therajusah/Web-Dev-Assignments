@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Table Project</title>
+</head>
+<body>
+    <!--Time Table-->
+    <table border cellpadding="16px">
+     <thead>
+        <tr>
+            <th colspan="7">Time Table</thcolspan>
+        </tr>
+        <tr>
+            <th>Day Study Time Table</th>
+            <th> I <br/> 08:00 - 09:00</th>
+            <th> II <br/> 09:00 - 10:00</th>
+            <th>III <br/> 11:00 - 12 : 00</th>
+            <th>IV <br/> 01:00 - 03:00</th>
+            <th>V <br/> 03:00 - 04:00</th>
+        </tr>
+     </thead>
+     <tbody>
+        <tr>
+            <td>Monday</td>
+            <td>OS </td>
+            <td>CN </td>
+            <td>DSA</td>
+            <td>CP</td>
+            <td>Web dev</td>
+        </tr>
+        <tr>
+            <td>Tuesday</td>
+            <td>OS </td>
+            <td>CN </td>
+            <td>DSA</td>
+            <td>CP</td>
+            <td>Web dev</td>
+        </tr> <tr>
+            <td>Wednesday</td>
+            <td>OS </td>
+            <td>CN </td>
+            <td>DSA</td>
+            <td>CP</td>
+            <td>Web dev</td>
+        </tr> <tr>
+            <td>Thrusday</td>
+            <td>OS </td>
+            <td>CN </td>
+            <td>DSA</td>
+            <td>CP</td>
+            <td>Web dev</td>
+        </tr> <tr>
+            <td>Friday</td>
+            <td>OS </td>
+            <td>CN </td>
+            <td>DSA</td>
+            <td>CP</td>
+            <td>Web dev</td>
+        </tr> <tr>
+            <td>Saturday</td>
+            <td>OS</td>
+            <td>CN </td>
+            <td>DSA</td>
+            <td colspan="3">No lectures</td>
+        </tr>
+     </tbody>
+    </table>
+</body>
+</html>
