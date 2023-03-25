@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-size: cover ;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.pro2{
+    padding-right: 550px;
+}
+.items{
+    list-style: none;
+    padding: 5px;
+    padding-top: 30px;
+    /* font-weight: bold; */
+    font-size: medium;
+}
+
+.logo{
+    padding-top: 17px;
+    padding-left: 50px;
+}
+.tru{
+    padding-top: 20px;
+    padding-right: 30px;
+}
+.contact{
+    font-size: medium;
+    background-color: #3d3bb0; 
+  border: none;
+  color: white;
+  padding: 10px 16px;
+  font-size: 10px;
+  border-radius: 5px;
+}
+.head1{
+    padding-top: 140px;
+    padding-left: 50px;
+   color: black;
+   font-weight: bold;
+   font-size: 3rem;
+   /* margin-right: 30dvh; */
+}
+span{
+    color: #3d3bb0;
+}
+.para{
+    padding-left: 50px;
+    
+}
+.services{
+    margin-left: 50px;
+  background-color: #3d3bb0; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+}
+.img1{
+    height: 500px;
+    width: 400;
+    padding-left: 50px;
+}
